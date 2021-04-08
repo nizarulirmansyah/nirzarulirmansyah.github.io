@@ -1,4 +1,4 @@
 # Prakerin
 
 Website Portofolio - Nizarul Firmansyah / XI TKJ 2
-https://nizarulirmansyah.github.io/
+https://nizarulirmansyah.github.io/nirzarulirmansyah.github.io/
